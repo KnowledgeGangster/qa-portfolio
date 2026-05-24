@@ -207,7 +207,7 @@ My areas of interest include:
 
 # Connect With Me
 
-- LinkedIn: [[Add Your LinkedIn URL]](https://www.linkedin.com/in/rodney-ladson/)
-- GitHub: [Add Your GitHub URL]
+- LinkedIn: (https://www.linkedin.com/in/rodney-ladson/)
+- GitHub: (https://github.com/KnowledgeGangster/qa-portfolio)
 
 ---
